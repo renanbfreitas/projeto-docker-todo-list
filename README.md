@@ -11,7 +11,9 @@ Neste projeto foi desenvolvido uma aplicação fullstack com Docker.
 
 Esta aplicação precisa ser conteinerizada para funcionar. 
 
-Foi feita uma configuração para cada frente específica: Front-end, Back-end e, para um aplicativo de teste que valida se as aplicações estão se comunicando.
+Foi feita uma configuração para cada frente específica: 
+
+Front-end, Back-end e, para um aplicativo de teste que valida se as aplicações estão se comunicando.
 
 ---   
 
